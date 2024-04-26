@@ -1,1 +1,2 @@
-# Jumping-Dragon
+This is a e-Dragon game created by me using Html,Css and JavaScript. In this game, the player has to save his dragon from the enemy by jumping over its body while the enemy is moving towards him. Every time the player jumps his enemy, his score increments by one and the speed per unit of the enemy which is moving towards the player's dragon also increases proportionally.
+If the dragon touches his enemy,it shows GAME OVER and the screen stops.The player can start playing again by refreshing the site or pressing any key on their keyboard.
